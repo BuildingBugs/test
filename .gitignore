@@ -1,0 +1,5 @@
+build/
+intermediate/
+
+.libcapnotrainergo.VC.db
+.vs
